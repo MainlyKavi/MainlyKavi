@@ -7,8 +7,8 @@
 </div>
 
 
-
-Hey, I'm Kavi.
+<div align="center">
+  
 
 I've recently gotten into coding and I'm genuinely enjoying it.
 
