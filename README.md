@@ -27,8 +27,14 @@ What I care about most is building things that feel polished and intentional rat
 </a>
 
 <a href="https://X.com/MainlyKavi">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg"
+    width="80"
+    height="80"
+    alt="Twitter"
+  />
 </a>
+
 
 <a href="https://discord.com/users/690044658579275791">
   <img src="https://cdn.simpleicons.org/discord" width="80" height="80" />
@@ -43,7 +49,6 @@ What I care about most is building things that feel polished and intentional rat
 
 
 
----
 
 <div align="center">
 
