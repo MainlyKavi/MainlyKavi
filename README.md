@@ -16,34 +16,27 @@ I do use AI in my workflow, but I believe good products still need human judgmen
 
 What I care about most is building things that feel polished and intentional rather than rushed and automated.
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MainlyKavi&theme=dark&hide_border=true" />
+</p>
+
 ---
 
 ## Connect With Me
 
 <div align="center">
-
-<a href="https://linktr.ee/MainlyKavi">
-  <img src="https://cdn.simpleicons.org/linktree" width="80" height="80" />
-</a>
-
-<a href="https://X.com/MainlyKavi">
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg"
-    width="80"
-    height="80"
-    alt="Twitter"
-  />
-</a>
-
-
-<a href="https://discord.com/users/690044658579275791">
-  <img src="https://cdn.simpleicons.org/discord" width="80" height="80" />
-</a>
-
-<a href="mailto:mainlykavii@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail" width="80" height="80" />
-</a>
-
+  <a href="https://linktr.ee/MainlyKavi">
+    <img src="https://img.shields.io/badge/Linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" />
+  </a>
+  <a href="https://X.com/MainlyKavi">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/690044658579275791">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="mailto:mainlykavii@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
 
@@ -52,6 +45,6 @@ What I care about most is building things that feel polished and intentional rat
 
 <div align="center">
 
-Building with code. Creating with purpose.
+Using AI to move faster, not think less.
 
 </div>
