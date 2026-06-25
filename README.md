@@ -24,23 +24,24 @@ What I care about most is building things that feel polished and intentional rat
 
 <div align="center">
 
-<a href="https://linktr.ee/YOUR_USERNAME">
-  <img src="https://cdn.simpleicons.org/linktree" width="60" height="60" />
+<a href="https://linktr.ee/MainlyKavi">
+  <img src="https://cdn.simpleicons.org/linktree" width="80" height="80" />
 </a>
 
-<a href="https://twitter.com/YOUR_USERNAME">
-  <img src="https://cdn.simpleicons.org/x" width="60" height="60" />
+<a href="https://X.com/MainlyKavi">
+  <img src="https://cdn.simpleicons.org/twitter/1DA1F2" width="80" height="80" />
 </a>
 
-<a href="https://discord.gg/YOUR_SERVER">
-  <img src="https://cdn.simpleicons.org/discord" width="60" height="60" />
+<a href="https://discord.com/users/690044658579275791">
+  <img src="https://cdn.simpleicons.org/discord" width="80" height="80" />
 </a>
 
-<a href="mailto:youremail@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail" width="60" height="60" />
+<a href="mailto:mainlykavii@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail" width="80" height="80" />
 </a>
 
 </div>
+
 
 
 
