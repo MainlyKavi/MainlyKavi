@@ -1,7 +1,7 @@
+<h1 align="center">Hi, I'm Kavi</h1>
+
 <div align="center">
-
-# Hi, I'm Kavi
-
+  
 ### Influencer | Front-End Developer
 
 </div>
