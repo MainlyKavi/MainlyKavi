@@ -20,31 +20,6 @@ What I care about most is building things that feel polished and intentional rat
 
 ---
 
-## About Me
-
-* Front-End Developer
-* Content Creator
-* Building and learning in public
-* Interested in design, UX, and AI workflows
-* Always focused on making things cleaner and better
-
----
-
-## Current Stack
-
-```txt
-HTML
-CSS
-JavaScript
-React
-Next.js
-Tailwind CSS
-Git
-GitHub
-```
-
----
-
 ## Connect With Me
 
 <div align="center">
