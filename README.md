@@ -2,8 +2,6 @@
 
 # Hi, I'm Kavi
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square" alt="Profile Views" />
-
 ### Influencer | Front-End Developer
 
 </div>
@@ -29,7 +27,7 @@ What I care about most is building things that feel polished and intentional rat
 </a>
 
 <a href="https://X.com/MainlyKavi">
-  <img src="https://cdn.simpleicons.org/twitter/1DA1F2" width="80" height="80" />
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
 <a href="https://discord.com/users/690044658579275791">
