@@ -12,7 +12,7 @@ Hey, I'm Kavi.
 
 I've recently gotten into coding and I'm genuinely enjoying it.
 
-I use AI heavily in my workflow, but I believe good products still need human judgment, creativity, and attention to detail. Anyone can generate code. Making something clean, smooth, and professional is the hard part.
+I do use AI in my workflow, but I believe good products still need human judgment, creativity, and attention to detail. Anyone can generate code but making something clean, smooth, and professional is the hard part.
 
 What I care about most is building things that feel polished and intentional rather than rushed and automated.
 
