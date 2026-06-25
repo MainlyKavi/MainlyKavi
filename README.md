@@ -25,22 +25,23 @@ What I care about most is building things that feel polished and intentional rat
 <div align="center">
 
 <a href="https://linktr.ee/YOUR_USERNAME">
-  <img src="https://cdn.simpleicons.org/linktree" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/linktree" width="60" height="60" />
 </a>
 
 <a href="https://twitter.com/YOUR_USERNAME">
-  <img src="https://cdn.simpleicons.org/x" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/x" width="60" height="60" />
 </a>
 
 <a href="https://discord.gg/YOUR_SERVER">
-  <img src="https://cdn.simpleicons.org/discord" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/discord" width="60" height="60" />
 </a>
 
 <a href="mailto:youremail@gmail.com">
-  <img src="https://cdn.simpleicons.org/gmail" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/gmail" width="60" height="60" />
 </a>
 
 </div>
+
 
 
 ---
