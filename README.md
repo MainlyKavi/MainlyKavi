@@ -10,7 +10,7 @@
 <div align="center">
   
 
-I've recently gotten into coding and I'm genuinely enjoying it.
+I've recently gotten into coding and I'm genuinely enjoying it. 21'6
 
 I do use AI in my workflow, but I believe good products still need human judgment, creativity, and attention to detail. Anyone can generate code but making something clean, smooth, and professional is the hard part.
 
