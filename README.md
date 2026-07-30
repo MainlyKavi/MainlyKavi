@@ -25,7 +25,7 @@ What I care about most is building things that feel polished and intentional rat
 ## Connect With Me
 
 <div align="center">
-  <a href="https://linktr.ee/MainlyKavi">
+  <a href="https://mainlykavi.vercel.app/">
    <img src="https://img.shields.io/badge/Linktree-0096c7?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
   <a href="https://X.com/MainlyKavi">
