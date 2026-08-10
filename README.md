@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### Influencer | Front-End Developer
+### Influencer | Full-Stack Product Engineer
 
 </div>
 
